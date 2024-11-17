@@ -18,6 +18,7 @@ header {
 main {
     background-color: #F6F8F8;
     padding-top: 30px;
+    font-family: Arial;
 }
 
 /*Main frame*/
@@ -32,7 +33,19 @@ section {
     padding: 12px 0 0 48px;
 }
 
-/*Add Task-Add Section*/
+/*Add Task - Add Section*/
+#section-1 {
+    border-bottom: 2px solid #F6F8F8;
+    padding-bottom: 10px;
+}
+
+#add-task {
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px 10px;
+    background-color: #00ABF5;
+}
+
 #add-section{
     display: inline-block;
     border: 1px solid #C6CCCC;
@@ -41,15 +54,3 @@ section {
     padding: 5px 10px;
 }
 
-#add-task {
-    display: inline-block;
-    border-radius: 5px;
-    font-size: 15px;
-    padding: 5px 10px;
-    background-color: #00ABF5;
-}
-
-#section-1 {
-    border-bottom: 2px solid #F6F8F8;
-    padding-bottom: 10px;
-}
