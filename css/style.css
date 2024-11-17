@@ -54,3 +54,39 @@ section {
     padding: 5px 10px;
 }
 
+/*New Task*/
+#section-2 {
+    padding-top: 30px;
+}
+
+.arrow-down, .bold-title {
+    display: inline;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sub-section {
+    padding-top: 10px;
+}
+
+.to-do-item {
+    display: inline-block;
+    border: 1px solid #00CDAD;
+    border-radius: 50%;
+    padding: 1px 4px;
+    color: #00CDAD;
+    font-size: 11px;
+    margin-right: 5px;
+}
+
+.to-do-text {
+    display: inline-block;
+}
+
+.to-do-tag {
+    color: white;
+    font-size: 11px;
+    background-color: #00AAEC;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
