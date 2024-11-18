@@ -13,3 +13,7 @@ Consegna
 
 Pushate in Github utilizzando VS code e stando attenti, quando create la repo, di rispettare il nome della repo, in questo caso html-css-toboolist.
 Buon lavoro!
+
+## Screenshots
+
+![Toboolist-screenshot](https://github.com/user-attachments/assets/c510a5f7-cab6-49e2-b9e0-58b7fc715fd7)
