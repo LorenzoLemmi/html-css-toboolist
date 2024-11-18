@@ -23,7 +23,7 @@ main {
 }
 
 /*Main frame*/
-div {
+#main-frame {
     margin: auto;
     width: 900px;
     height: 612px;
@@ -36,7 +36,7 @@ section {
 }
 
 #first-subsection-newtask, #first-subsection-today, #first-subsection-upcoming {
-    padding-top: 2px;
+    padding-top: 8px;
 }
 
 #section-4 {
