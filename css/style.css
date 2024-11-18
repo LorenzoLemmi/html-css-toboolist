@@ -51,7 +51,7 @@ section {
 
 #add-task {
     border-radius: 5px;
-    font-size: 15px;
+    font-size: 13px;
     padding: 5px 10px;
     background-color: #00ABF5;
     border: 1px solid #00ABF5;
@@ -61,7 +61,7 @@ section {
     display: inline-block;
     border: 1px solid #C6CCCC;
     border-radius: 5px;
-    font-size: 15px;
+    font-size: 13px;
     padding: 5px 10px;
 }
 
