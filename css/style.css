@@ -98,7 +98,7 @@ section {
 }
 
 /*Today*/
-#red-cross-1 {
+#red-cross-1, #red-cross-2 {
     color: #FF0000;
     border-color: #FF0000;
 }
