@@ -7,10 +7,11 @@
 /*Header*/
 header {
     background-color: #FFFFFF;
+    padding: 6px 14px 1px;
 }
 
 #logo {
-    padding: 8px 13px 2px;
+    
     width: 190px;
 }
 
