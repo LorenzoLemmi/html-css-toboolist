@@ -67,8 +67,8 @@ section {
 }
 
 /*New Task*/
-.arrow-down, .bold-title {
-    display: inline;
+
+.bold-title {
     font-weight: bold;
     font-size: 20px;
 }
