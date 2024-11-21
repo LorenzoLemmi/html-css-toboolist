@@ -23,7 +23,7 @@ main {
 }
 
 /*Main frame*/
-#main-frame {
+.main-frame {
     margin: auto;
     max-width: 900px;
     width: 100%;
@@ -39,17 +39,17 @@ section {
     padding-top: 8px;
 }
 
-#section-4 {
+.section-4 {
     padding-bottom: 40px;
 }
 
 /*Add Task - Add Section*/
-#section-1 {
+.section-1 {
     border-bottom: 2px solid #F6F8F8;
     padding: 12px 0 10px 48px;
 }
 
-#add-task {
+.add-task {
     border-radius: 5px;
     font-size: 13px;
     padding: 5px 10px;
@@ -57,7 +57,7 @@ section {
     border: 1px solid #00ABF5;
 }
 
-#add-section{
+.add-section{
     display: inline-block;
     border: 1px solid #C6CCCC;
     background-color: #FFFFFF;
@@ -105,23 +105,23 @@ section {
     border-color: #FF0000;
 }
 
-#q1-goals {
+.q1-goals {
     background-color: #BC58E1;
 }
 
-#recruiting {
+.recruiting {
     background-color: #00C9A8;
 }
 
-#mobile {
+.mobile {
     background-color: #FF9300;
 }
 
 /*Upcoming*/
-#website {
+.website {
     background-color: #FF3C8E;
 }
 
-#sales {
+.sales {
     background-color: #96D32F;
 }
