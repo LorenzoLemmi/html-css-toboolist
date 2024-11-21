@@ -35,7 +35,7 @@ section {
     padding: 30px 0 0 48px;
 }
 
-#first-subsection-newtask, #first-subsection-today, #first-subsection-upcoming {
+.first-subsection {
     padding-top: 8px;
 }
 
